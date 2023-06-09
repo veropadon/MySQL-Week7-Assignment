@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\verog\eclipse-workspace\MySQL Week7 Assignment\.metadata\.plugins\org.eclipse.jdt.core
+463655924.index
+1913006408.index
+298013943.index
+1865797976.index

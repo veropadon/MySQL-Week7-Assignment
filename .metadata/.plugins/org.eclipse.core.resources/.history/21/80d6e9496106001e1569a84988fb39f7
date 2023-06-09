@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package projects.dao;
+
+/**
+ * @author verog
+ *
+ */
+public class DbConnection {
+
+}
